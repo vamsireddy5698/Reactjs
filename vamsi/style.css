@@ -1,0 +1,43 @@
+
+
+.parent{
+	background-color:#18e2ba;
+	margin:10%;
+	display:flex;
+	justify-content:space-around;
+	border-radius: 5%;
+
+}
+.s1
+{
+	background-color:pink;
+	margin:4%;
+	width:25%;
+	text-align:center;
+	border-radius:4%;
+	box-shadow:4px 4px 4px 4px white;
+
+}
+
+img{
+	border:2px solid white;
+    border-radius:60px;
+	margin-left:20px;
+}
+
+h1{
+	color:red;
+}
+
+h2{
+	color:#39d30a;
+}
+
+h3
+{
+	color:#e20fb1;
+}
+
+a{
+	align="center";
+}
